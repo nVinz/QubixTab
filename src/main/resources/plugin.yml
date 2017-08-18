@@ -1,0 +1,5 @@
+name: Core
+version: ${project.version}
+main: ru.brainrtp.core.Main
+authors: [BrainRTP]
+description: Plguin for Tab
